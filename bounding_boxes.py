@@ -1,7 +1,14 @@
 import cv2
 from ultralytics import YOLO
 
+smoke_flag = None
+fire_flag = None
+
+temp_fire = ()
+temp_smoke = ()
+
 cap = cv2.VideoCapture("videoplayback_2.mp4")
+
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
 height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT ))
 fps = int(cap.get(cv2.CAP_PROP_FPS))
@@ -22,8 +29,7 @@ while cap.isOpened():
             print(list(box.cls))
             confidence = box.conf[0]
             confidence = int(confidence*100)
-            
-            if confidence > 10:
+            if confidence > 25:
                     x1, y1, x2, y2 = box.xyxy[0]
 
                     x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
@@ -31,13 +37,29 @@ while cap.isOpened():
                     cv2.rectangle(frame, (x1,y1), (x2,y2), (0,255,0),4)
 
                     cv2.putText(frame, f"{confidence}%:{class_}",(x1+4,y1+100),cv2.FONT_HERSHEY_SIMPLEX,1,(0,255,0))
+                    
+                    if class_=="fire":
+                         temp_fire = (int((x1+x2)/2),int((y1+y2)/2))
+                         fire_flag = True
+                    elif class_=="smoke":
+                         temp_smoke = (int(((x1+x2)/2)),int((y1+y2)/2))
+                         smoke_flag = True
+                    
+                    if smoke_flag and fire_flag :
+                        cv2.arrowedLine(frame,temp_fire,temp_smoke,(0,0,255),3, 5, 0, 0.1)
+                        print("Flame gets bigger...")
+                    
                     out.write(frame)
             else:
                  out.write(frame)
-            cv2.imshow("Frames",frame)
-            cv2.waitKey(0)
+    cv2.imshow("Frames",frame)
+    cv2.waitKey(0)
+    smoke_flag = False
+    fire_flag = False
 
 cap.release()
 cv2.destroyAllWindows()
+
+print("Done...")
 
 
