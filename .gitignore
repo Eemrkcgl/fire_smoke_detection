@@ -7,6 +7,8 @@ fire_smoke_detection.iml
 misc.xml
 modules.xml
 vcs.xml
+.idea
+test.py
 
 ##Special##
 videoplayback_2.mp4
