@@ -1,58 +1,62 @@
-https://www.youtube.com/watch?v=GkPZib1Lc9M /olmaz -
-https://www.youtube.com/watch?v=MxCDKPhnMyI /olur +
-https://www.youtube.com/watch?v=yIQG3FKUIjE /olmaz -
-https://www.youtube.com/watch?v=Sydjz5-izVQ /olur +
-https://www.youtube.com/watch?v=XYh9jaX8E9g /olur yukleniyor
-https://www.youtube.com/watch?v=b_ilq8Lms80 /olur yukleniyor
-https://www.youtube.com/watch?v=RGux3OOLhSw /bakalim
-https://www.youtube.com/watch?v=osKxm-LGQPc /olur
-https://www.youtube.com/watch?v=ll9rLGTr7jI /olur
-https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur
-https://www.youtube.com/watch?v=M8tQWobWjrs /olur
-https://www.youtube.com/watch?v=W1PPVPENguI /olur
-https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur
-https://www.youtube.com/watch?v=Kh4rpc8SlnM /olur
-https://www.youtube.com/watch?v=JPEbBENs5Bc /olur
-https://www.youtube.com/watch?v=Y_He4JbG-_s /olur
-https://www.youtube.com/watch?v=zedcXsQJm_Q /bakalim
-https://www.youtube.com/watch?v=eGAZGhokMO4 /bakalim
-https://www.youtube.com/watch?v=bUfwUnin9DE /olur
-https://www.youtube.com/watch?v=hG0fFbxYlXk drone /olur
-https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur
-https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur
-https://www.youtube.com/watch?v=gbM_NPx2GPc drone /olur
-https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur
+Bitenler
+#####################
+https://www.youtube.com/watch?v=MxCDKPhnMyI /olur etiketlendi
+https://www.youtube.com/watch?v=Sydjz5-izVQ /olur etiketlendi
+https://www.youtube.com/watch?v=b_ilq8Lms80 /olur etiketlendi
+#####################
+#On process
+https://www.youtube.com/watch?v=XYh9jaX8E9g /olur yuklendi (Emir)
+https://www.youtube.com/watch?v=osKxm-LGQPc /olur yuklendi temizlendi etiketleniyor (Durukan)
+https://www.youtube.com/watch?v=ll9rLGTr7jI /olur direkt roboflow-yuklendi-etiketleniyor (Emir)
+https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - temizlenecek (Emir)
+########################################################################################
+#Incelenen
+https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
+https://www.youtube.com/watch?v=W1PPVPENguI /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=Kh4rpc8SlnM /olur parse edilecek (Emir)
+https://www.youtube.com/watch?v=JPEbBENs5Bc /olur buna bakalim roboflow da olabilir parse da (Emir)
+https://www.youtube.com/watch?v=Y_He4JbG-_s /olur roboflow (Durukan)
+https://www.youtube.com/watch?v=GcxTCEOjwDU /00:42 den sonrasi olabilir - indirilip parse edilecek (Emir)
+https://www.youtube.com/watch?v=bUfwUnin9DE /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=hG0fFbxYlXk drone /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur parse edilecek (Emir)
+https://www.youtube.com/watch?v=gbM_NPx2GPc drone /olur direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur direkt roboflow
+
+#Yapilacaklar
+
 https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur
 https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur
-https://www.youtube.com/watch?v=gbM_NPx2GPc drone /bakalim
-https://www.youtube.com/watch?v=4DIckAIUiDY helicopter /bakalim
-https://www.youtube.com/watch?v=WElU-yll0Pk helicopter /smoke icin olabilir yoksa cok gerek yok bakalim
-https://www.youtube.com/shorts/FrmMWj0Ad-Q plane /olmaz
-https://www.youtube.com/watch?v=XGEnbcP-zs0 plane /2:30 dan sonrasi olur
 https://www.youtube.com/watch?v=8KsxtBwUxGM /olur
 https://www.youtube.com/watch?v=5GaWpICHFwc /olur smoke ici alev onemli bence
-https://www.youtube.com/watch?v=z4ozW8SFk8A airplane view /olabilir
 https://www.youtube.com/watch?v=-9yRhIl2R_k smoke only /olur
 https://www.youtube.com/watch?v=Xas0PxBU47w /olur
-https://www.youtube.com/watch?v=GcxTCEOjwDU /00:42 den sonrasi olabilir
-
-#biraz daha alev videosu ekleyebiliriz drone cekimi
 https://www.youtube.com/watch?v=NqR6kqtdV44 drone alev+duman /olur
-https://www.youtube.com/watch?v=cGND7fjMX_k yukarıdan çekim siyah duman /olabilir
 https://www.youtube.com/watch?v=gmcFsz9fuoY ateş+siyah,beyaz duman /olur beyaz dumanin hepsini almayalim
-https://www.youtube.com/watch?v=lfkgBSVqVOU ateş+duman 0:30-1:20
-https://www.youtube.com/watch?v=T-OtNTshGoI drone ateş+duman /olmaz
-https://www.youtube.com/watch?v=Sqj2bm1VwF0 yerden görüntü ateş+duman /olabilir
 https://www.youtube.com/watch?v=LkuNHOqrbZg drone ateş+duman 0:00 0:16 /olur
 https://www.youtube.com/watch?v=nRIDTlxpWL4 drone ateş+duman ama video kalite düşük /olur ama hepsini almayalim
 https://www.youtube.com/watch?v=qcEER1fHjCI drone ateş+siyah,beyaz duman /olur
 https://www.youtube.com/watch?v=NA0W4BIKjSo başlarda ateş var kalanı duman /hepsini almadan basini alabilirz
-https://www.youtube.com/watch?v=-Xkr6utkZvc helicopter ama 1 2 kare alınır belki/ olabilir
 https://www.youtube.com/watch?v=7BhDwVefhP8 yerden görüntü ama farklı ateşler fazla /olur
 https://www.youtube.com/watch?v=QybUGVbYUC4 drone 0:00 2:06 ateş fazla /olur
 https://www.youtube.com/watch?v=XNF_Sddlgy4 drone 0:00-0:14 belki video işimize yarar? /sadece basi
-https://www.youtube.com/watch?v=l-XD6Y3bCQY drone ateş ama görüntü karanlık /olmaz
 https://www.youtube.com/watch?v=Z1B_lsZSef0 drone ateş ve duman /olur
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone ateş+duman /olur
 https://www.youtube.com/watch?v=0WpIz9ElBb8 drone ateş+duman /olur
-https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman0:00-9:40 /olur
+https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur
+
+
+#######################
+#Bakilacaklar
+https://www.youtube.com/watch?v=z4ozW8SFk8A airplane view /olabilir
+https://www.youtube.com/watch?v=gbM_NPx2GPc drone /bakalim
+https://www.youtube.com/watch?v=4DIckAIUiDY helicopter /bakalim
+https://www.youtube.com/watch?v=WElU-yll0Pk helicopter /smoke icin olabilir yoksa cok gerek yok bakalim
+https://www.youtube.com/watch?v=zedcXsQJm_Q /bakalim
+https://www.youtube.com/watch?v=eGAZGhokMO4 /bakalim
+https://www.youtube.com/watch?v=RGux3OOLhSw /bakalim
+https://www.youtube.com/watch?v=Sqj2bm1VwF0 yerden görüntü ateş+duman /olabilir
+https://www.youtube.com/watch?v=-Xkr6utkZvc helicopter ama 1 2 kare alınır belki/ olabilir
+https://www.youtube.com/watch?v=cGND7fjMX_k yukarıdan çekim siyah duman /olabilir
