@@ -1,7 +1,7 @@
 import cv2
 from ultralytics import YOLO
 from degree_calculator import calc_angle
-from angel2direction import degToCompass
+from angle2direction import degToCompass
 
 smoke_flag = None
 fire_flag = None
