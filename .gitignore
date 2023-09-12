@@ -1,6 +1,13 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,opencv
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,opencv
 
+/shelf/
+/workspace.xml
+fire_smoke_detection.iml
+misc.xml
+modules.xml
+vcs.xml
+
 ##Special##
 videoplayback_2.mp4
 videoplayback_3.mp4
