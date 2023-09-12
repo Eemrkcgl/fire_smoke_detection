@@ -1,14 +1,15 @@
 Bitenler
-#####################
+########################################################################################
 https://www.youtube.com/watch?v=MxCDKPhnMyI /olur etiketlendi
 https://www.youtube.com/watch?v=Sydjz5-izVQ /olur etiketlendi
 https://www.youtube.com/watch?v=b_ilq8Lms80 /olur etiketlendi
-#####################
+https://www.youtube.com/watch?v=ll9rLGTr7jI /olur etiketlendi
+https://www.youtube.com/watch?v=osKxm-LGQPc /olur etiketlendi
+https://www.youtube.com/watch?v=XNF_Sddlgy4 drone 0:00-0:14 belki video işimize yarar? /sadece basi/ etiketlendi
+########################################################################################
 #On process
-https://www.youtube.com/watch?v=XYh9jaX8E9g /olur yuklendi (Emir)
-https://www.youtube.com/watch?v=osKxm-LGQPc /olur yuklendi temizlendi etiketleniyor (Durukan)
-https://www.youtube.com/watch?v=ll9rLGTr7jI /olur direkt roboflow-yuklendi-etiketleniyor (Emir)
-https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - temizlenecek (Emir)
+https://www.youtube.com/watch?v=XYh9jaX8E9g /olur etiketleniyor (Durukan)
+https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - temizlenecek - (Emir) (#TODO->14:20:16:16 arasini unutma)
 ########################################################################################
 #Incelenen
 https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
@@ -24,9 +25,8 @@ https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow (Durukan
 https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur parse edilecek (Emir)
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur direkt roboflow
-
+#######################################################################################
 #Yapilacaklar
-
 https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur
 https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur
 https://www.youtube.com/watch?v=8KsxtBwUxGM /olur
@@ -41,14 +41,11 @@ https://www.youtube.com/watch?v=qcEER1fHjCI drone ateş+siyah,beyaz duman /olur
 https://www.youtube.com/watch?v=NA0W4BIKjSo başlarda ateş var kalanı duman /hepsini almadan basini alabilirz
 https://www.youtube.com/watch?v=7BhDwVefhP8 yerden görüntü ama farklı ateşler fazla /olur
 https://www.youtube.com/watch?v=QybUGVbYUC4 drone 0:00 2:06 ateş fazla /olur
-https://www.youtube.com/watch?v=XNF_Sddlgy4 drone 0:00-0:14 belki video işimize yarar? /sadece basi
 https://www.youtube.com/watch?v=Z1B_lsZSef0 drone ateş ve duman /olur
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone ateş+duman /olur
 https://www.youtube.com/watch?v=0WpIz9ElBb8 drone ateş+duman /olur
 https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur
-
-
-#######################
+############################################################################################
 #Bakilacaklar
 https://www.youtube.com/watch?v=z4ozW8SFk8A airplane view /olabilir
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone /bakalim
