@@ -6,11 +6,11 @@ https://www.youtube.com/watch?v=b_ilq8Lms80 /olur etiketlendi
 https://www.youtube.com/watch?v=ll9rLGTr7jI /olur etiketlendi
 https://www.youtube.com/watch?v=osKxm-LGQPc /olur etiketlendi
 https://www.youtube.com/watch?v=XNF_Sddlgy4 drone 0:00-0:14 belki video işimize yarar? /sadece basi/ etiketlendi
+https://www.youtube.com/watch?v=GcxTCEOjwDU /00:42 den sonrasi olabilir - indirilip parse edilecek - indirildi -temizlendi - etiketlendi
+https://www.youtube.com/watch?v=XYh9jaX8E9g /olur etiketlendi
 ########################################################################################
 #On process
-https://www.youtube.com/watch?v=XYh9jaX8E9g /olur etiketleniyor (Durukan)
-https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - temizlenecek - yuklendi -etiketlenecek (Durukan)
-https://www.youtube.com/watch?v=GcxTCEOjwDU /00:42 den sonrasi olabilir - indirilip parse edilecek - indirildi -temizlendi - etiketleniyor (Emir)
+https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - temizlenecek - yuklendi -etiketleniyor (Durukan)
 https://www.youtube.com/watch?v=hG0fFbxYlXk drone /olur direkt roboflow - yuklendi - etiketlenecek (Durukan) 
 ########################################################################################
 #Incelenen
