@@ -11,16 +11,17 @@ https://www.youtube.com/watch?v=U-oGZ1_H4GI /olur parse edilecek -> indirildi - 
 https://www.youtube.com/watch?v=XYh9jaX8E9g /olur etiketlendi
 https://www.youtube.com/watch?v=hG0fFbxYlXk drone /olur direkt roboflow - yuklendi - etiketlendi
 https://www.youtube.com/watch?v=Kh4rpc8SlnM /olur parse edildi - temizlendi - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur direkt roboflow - yuklendi - etiketlendi
 ########################################################################################
 #On process
-https://www.youtube.com/watch?v=Y_He4JbG-_s /olur parse edildi - temizlendi - yuklendi - etiketlenecek
-https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur direkt roboflow - yuklendi - etiketlenecek
+https://www.youtube.com/watch?v=Y_He4JbG-_s /olur parse edildi - temizlendi - yuklendi - etiketleniyor
+https://www.youtube.com/watch?v=-9yRhIl2R_k smoke only /olur /direkt roboflow - etiketleniyor 
+https://www.youtube.com/watch?v=JPEbBENs5Bc /olur - indiriliyor
 ########################################################################################
 #Incelenen
 https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
 https://www.youtube.com/watch?v=W1PPVPENguI /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=JPEbBENs5Bc /olur buna bakalim roboflow da olabilir parse da (Emir)
 https://www.youtube.com/watch?v=bUfwUnin9DE /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur parse edilecek (Emir)
@@ -30,7 +31,6 @@ https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=8KsxtBwUxGM /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=5GaWpICHFwc /olur smoke ici alev onemli bence /direkt roboflow
-https://www.youtube.com/watch?v=-9yRhIl2R_k smoke only /olur /direkt roboflow
 https://www.youtube.com/watch?v=Xas0PxBU47w /olur /bilemedim
 https://www.youtube.com/watch?v=NqR6kqtdV44 drone alev+duman /olur /direkt roboflow
 https://www.youtube.com/watch?v=gmcFsz9fuoY ateş+siyah,beyaz duman /olur beyaz dumanin hepsini almayalim /parse edilecek (Emir)
