@@ -13,3 +13,9 @@ def calc_angle(start_point, end_point):
     delta_lon %= math.pi
     bearing = math.atan2(delta_lon, delta_ratio)/deg_to_rad
     return bearing
+
+def calculate_angle(start_point, end_point):
+    """Calculates the angle between two points"""
+    degree = math.degrees(math.atan2(end_point[1] - start_point[1], end_point[0] - start_point[0]))
+    
+    return degree 

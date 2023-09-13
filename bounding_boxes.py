@@ -1,6 +1,6 @@
 import cv2
 from ultralytics import YOLO
-from degree_calculator import calc_angle
+from degree_calculator import calc_angle, calculate_angle
 from angle2direction import degToCompass
 
 smoke_flag = None
@@ -49,7 +49,7 @@ while cap.isOpened():
                     
                     if smoke_flag and fire_flag :
                         cv2.arrowedLine(frame,temp_fire,temp_smoke,(0,0,255),3, 5, 0, 0.1)
-                        direction_of_spread_angle = calc_angle(temp_fire,temp_smoke)
+                        direction_of_spread_angle = calculate_angle(temp_fire,temp_smoke)
                         direction_of_spread = degToCompass(direction_of_spread_angle)
                         print(f"Flame gets bigger in {direction_of_spread} direction...")
                     

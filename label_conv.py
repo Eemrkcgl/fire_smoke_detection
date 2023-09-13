@@ -1,9 +1,9 @@
-
+"""
+This code used for adjust diffrent labels into same shape
+"""
 import os
 
 path_of_dir = ["data3/test/labels","data3/train/labels","data3/valid/labels"]
-
-
 
 counter = 1
 for paths in path_of_dir:
