@@ -18,7 +18,7 @@ https://www.youtube.com/watch?v=bUfwUnin9DE /olur direkt roboflow (Durukan) - et
 ########################################################################################
 #On process
 https://www.youtube.com/watch?v=JPEbBENs5Bc /olur - indirildi - parse edildi - temizlendi -yuklendi - etiketleniyor
-https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi
+https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi -parse edildi -temizlendi - yuklendi - etiketlenecek
 ########################################################################################
 #Incelenen
 https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
