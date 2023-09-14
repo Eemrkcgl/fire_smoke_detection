@@ -20,26 +20,25 @@ https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi -parse edild
 https://www.youtube.com/watch?v=W1PPVPENguI /olur direkt roboflow- yuklendi - etiketlendi
 https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur direkt roboflow - yuklendi - etiketlendi
 https://www.youtube.com/watch?v=M8tQWobWjrs /olur indiriliyor - parse edildi - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur /parse edildi - temizlendi - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=8KsxtBwUxGM /olur /parse edilecek - indirildi - parse edildi - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=gmcFsz9fuoY ateş+siyah,beyaz duman /olur beyaz dumanin hepsini almayalim /parse edilecek - indirildi -parse edildi -yuklendi - etiketlendi
+https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur /indirildi - parse edildi - yuklendi - etiketlendi
 ########################################################################################
 #On process
-https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur /parse edildi - temizlendi - yuklendi - etiketlenecek
-https://www.youtube.com/watch?v=8KsxtBwUxGM /olur /parse edilecek - indirildi - parse edildi - yuklendi - etiketlenecek
-https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur /indirildi - parse edildi - yuklendi - etiketlenecek 
+
 ########################################################################################
 #Incelenen
-https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=qcEER1fHjCI drone ateş+siyah,beyaz duman /olur /direkt roboflow (Durukan) Note: 2sn de bir alalim
-https://www.youtube.com/watch?v=5GaWpICHFwc /olur smoke ici alev onemli bence /direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=Xas0PxBU47w /olur /bilemedim
 https://www.youtube.com/watch?v=NqR6kqtdV44 drone alev+duman /olur /direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=gmcFsz9fuoY ateş+siyah,beyaz duman /olur beyaz dumanin hepsini almayalim /parse edilecek (Emir)
 https://www.youtube.com/watch?v=nRIDTlxpWL4 drone ateş+duman ama video kalite düşük /olur ama hepsini almayalim /direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=7BhDwVefhP8 yerden görüntü ama farklı ateşler fazla /olur /direkt roboflow (Durukan)
+https://www.youtube.com/watch?v=7BhDwVefhP8 yerden görüntü ama farklı ateşler fazla /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=NA0W4BIKjSo başlarda ateş var kalanı duman /hepsini almadan basini alabilirz /parse edilecek (Emir)
 https://www.youtube.com/watch?v=QybUGVbYUC4 drone 0:00 2:06 ateş fazla /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=Z1B_lsZSef0 drone ateş ve duman /olur /direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=gbM_NPx2GPc drone ateş+duman /olur /direkt roboflow (Durukan) Note:2 sn de bir frame alabiliriz
+https://www.youtube.com/watch?v=gbM_NPx2GPc drone ateş+duman /olur /parse edilecek (Emir) Note:2 sn de bir frame alabiliriz
 https://www.youtube.com/watch?v=0WpIz9ElBb8 drone ateş+duman /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur /parse edilecek (Emir)
 #######################################################################################
