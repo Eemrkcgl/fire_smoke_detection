@@ -17,19 +17,19 @@ https://www.youtube.com/watch?v=-9yRhIl2R_k smoke only /olur /direkt roboflow - 
 https://www.youtube.com/watch?v=bUfwUnin9DE /olur direkt roboflow (Durukan) - etiketlendi 
 https://www.youtube.com/watch?v=JPEbBENs5Bc /olur - indirildi - parse edildi - temizlendi -yuklendi - etiketlendi
 https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi -parse edildi -temizlendi - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=W1PPVPENguI /olur direkt roboflow- yuklendi - etiketlendi
+https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur direkt roboflow - yuklendi - etiketlendi
+https://www.youtube.com/watch?v=M8tQWobWjrs /olur indiriliyor - parse edildi - yuklendi - etiketlendi
 ########################################################################################
 #On process
+https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur /parse edildi - temizlendi - yuklendi - etiketlenecek
+https://www.youtube.com/watch?v=8KsxtBwUxGM /olur /parse edilecek - indirildi - parse edildi - yuklendi - etiketlenecek
+https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur /indirildi - parse edildi - yuklendi - etiketlenecek 
 ########################################################################################
 #Incelenen
-https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
-https://www.youtube.com/watch?v=W1PPVPENguI /olur direkt roboflow (Durukan)
-https://www.youtube.com/watch?v=xA8rgkEJ0x4 /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=3uncfJWsx7E drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=gbM_NPx2GPc drone /olur direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=qcEER1fHjCI drone ateş+siyah,beyaz duman /olur /direkt roboflow (Durukan) Note: 2sn de bir alalim
-https://www.youtube.com/watch?v=stTV0qQaFw0 drone /olur /parse edilecek (Emir)
-https://www.youtube.com/watch?v=gA27ZI-_gCA drone /olur /parse edilecek (Emir)
-https://www.youtube.com/watch?v=8KsxtBwUxGM /olur /parse edilecek (Emir)
 https://www.youtube.com/watch?v=5GaWpICHFwc /olur smoke ici alev onemli bence /direkt roboflow (Durukan)
 https://www.youtube.com/watch?v=Xas0PxBU47w /olur /bilemedim
 https://www.youtube.com/watch?v=NqR6kqtdV44 drone alev+duman /olur /direkt roboflow (Durukan)
@@ -45,7 +45,9 @@ https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur /p
 #######################################################################################
 #Yapilacaklar
 %Pc de yuklu olan 3 videonun frameleri alinacak
+%Dataset generate edilecek
 %Elimizdeki datasetle birlestirilecek
+%Egitim icin server?
 ############################################################################################
 #Bakilacaklar
 https://www.youtube.com/watch?v=z4ozW8SFk8A airplane view /olabilir
