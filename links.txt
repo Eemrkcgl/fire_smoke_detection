@@ -15,10 +15,10 @@ https://www.youtube.com/watch?v=GKgyhlM9lh8 drone /olur direkt roboflow - yuklen
 https://www.youtube.com/watch?v=Y_He4JbG-_s /olur parse edildi - temizlendi - yuklendi - etiketlendi
 https://www.youtube.com/watch?v=-9yRhIl2R_k smoke only /olur /direkt roboflow - etiketlendi
 https://www.youtube.com/watch?v=bUfwUnin9DE /olur direkt roboflow (Durukan) - etiketlendi 
+https://www.youtube.com/watch?v=JPEbBENs5Bc /olur - indirildi - parse edildi - temizlendi -yuklendi - etiketlendi
+https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi -parse edildi -temizlendi - yuklendi - etiketlendi
 ########################################################################################
 #On process
-https://www.youtube.com/watch?v=JPEbBENs5Bc /olur - indirildi - parse edildi - temizlendi -yuklendi - etiketleniyor
-https://www.youtube.com/watch?v=-4fYTWBtUt4 drone /olur - indirildi -parse edildi -temizlendi - yuklendi - etiketlenecek
 ########################################################################################
 #Incelenen
 https://www.youtube.com/watch?v=M8tQWobWjrs /olur parse edilecek (Emir)
