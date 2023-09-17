@@ -36,13 +36,14 @@ https://www.youtube.com/watch?v=0WpIz9ElBb8 drone ateş+duman /olur /parse edile
 https://www.youtube.com/watch?v=Z1B_lsZSef0 drone ateş ve duman /olur /direkt roboflow - yukleniyor - etiketlendi
 ########################################################################################
 #On process
+%Pc de yuklu olan 3 videonun frameleri alinacak - alindi - yuklendi - etiketlenecek
+https://www.youtube.com/watch?v=NA0W4BIKjSo başlarda ateş var kalanı duman /hepsini almadan basini alabiliriz - indirildi - parse edildi - temizlendi - yuklendi - etiketlenecek
+https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur /parse edilecek - indirildi - parse edildi - temizlendi - yuklendi - etiketlenecek
 ########################################################################################
 #Incelenen
-https://www.youtube.com/watch?v=NA0W4BIKjSo başlarda ateş var kalanı duman /hepsini almadan basini alabilirz /parse edilecek (Emir)
-https://www.youtube.com/watch?v=UmKo2RF8WE8 drone ateş+duman 0:00-9:40 /olur /parse edilecek (Emir)
+
 #######################################################################################
 #Yapilacaklar
-%Pc de yuklu olan 3 videonun frameleri alinacak
 %Dataset generate edilecek
 %Elimizdeki datasetle birlestirilecek
 %Egitim icin server?
