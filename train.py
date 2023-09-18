@@ -1,5 +1,8 @@
 from ultralytics import YOLO
- 
+from clearml import Task
+
+task = Task.init(project_name="fire_and_smoke_detection", task_name="detection_v1")
+
 # Load the model.
 model = YOLO('yolov8s.pt')
  
