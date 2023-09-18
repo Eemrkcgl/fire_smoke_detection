@@ -8,7 +8,7 @@ model = YOLO('weights/yolov8x.pt')
  
 # Training.
 results = model.train(
-   data='Latest Data/data.yaml',
+   data='Latest_Data/data.yaml',
    imgsz=640,
    epochs=20,
    batch=8,
