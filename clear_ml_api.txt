@@ -1,0 +1,10 @@
+api { 
+    # Durukan Çelikarslan's workspace
+    web_server: https://app.clear.ml
+    api_server: https://api.clear.ml
+    files_server: https://files.clear.ml
+    credentials {
+        "access_key" = "X1F0HDZ2440E78OTFN84"
+        "secret_key"  = "WCSJwjwtXTwXDWRq26boEJeNBEY6qOybgDtlVhok9995e0dmta"
+    }
+}
